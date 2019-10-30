@@ -1,0 +1,69 @@
+/**********************TAG SELECTORS**********************/
+
+table {
+  margin: auto;
+}
+
+/**********************CLASS SELECTORS**********************/
+
+.top-container {
+  background-color: #00818a;
+}
+
+.middle-container {
+  background-color: red;
+  color: rgba(31, 253, 53, 0);
+  height: 200px;
+  width: 200px;
+}
+
+.middle-container:hover {
+  background-color: blue;
+  color: rgba(41, 140, 70, 1);
+}
+
+.meg {
+  text-align: center;
+}
+
+.nut{
+  text-align: center;
+}
+
+.bottom-container {
+  background-color: blue;
+  color: rgba(218, 140, 62, 0);
+  height: 200px;
+  width: 200px;
+}
+
+.bottom-container:hover {
+  background-color: red;
+  color: rgba(218, 140, 62, 1);
+}
+
+.floor-container {
+  border-color: black;
+  border-width: thick;
+  border-style: solid;
+  border-radius: 100%;
+  margin: auto;
+  height: 250px;
+  width: 250px;
+}
+
+.really{
+  font-size: 18px;
+  text-align: center;
+  color: grey;
+}
+
+.true{
+  font-size: 75px;
+  text-align: center;
+  color: white;
+}
+
+.floor-container:hover {
+  background-color: grey;
+}
